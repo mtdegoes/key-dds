@@ -1,7 +1,7 @@
 ---
 title: Components
-logo: /img/2artboard-1-copy-6-4x.png
-contact_entries:
-  - heading: test
+component:
+  - description: Here's it's description
+    name: This is a component.
 ---
-test
+Here you'll find all of the components that we use as part of the Key Design system.
