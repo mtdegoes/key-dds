@@ -1,23 +1,7 @@
 ---
 title: Components
-image: /img/blog-chemex.jpg
-heading: This heading
-description: Another Heading
-intro:
-  heading: test
-  description: test
-main:
-  heading: test
-  description: test
-  image1:
-    image: /img/about-reinvest-profits.jpg
-testimonials:
-  - author: test
-    designer_notes: test
-    quote: test
-full_image: /img/about-reinvest-profits.jpg
-pricing:
-  heading: '0.00'
-  description: none
+logo: /img/2artboard-1-copy-6-4x.png
+contact_entries:
+  - heading: test
 ---
-
+test
