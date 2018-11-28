@@ -30,5 +30,8 @@ footer a {
 
 /*COMPONENTS*/
 .dds-component {
-	padding: var(--std-sz) 0px;
+	margin: var(--std-sz);
+	padding-bottom: var(--std-sz);
+	background-color: var(--white);
+	border-radius: 5px;
 }

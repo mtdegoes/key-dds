@@ -1,20 +1,19 @@
 {{ define "main" }}
 
-<div class="bg-off-white">
-	<div class="">
+<section class="bg-off-white">
+	<div class="abs-holder holder-100">
 
 		{{ .Content }}
 
 		<div class="">
-	        	{{ range .Params.component }}
+        	{{ range .Params.component }}
 				<div class="dds-component">
 					<h4 class="">{{ .name }}</h4>
 					<p>{{ .description }}</p>
 				</div>
 			{{ end }}
 		</div>
-
 	</div>
-</div>
+</section>
 
 {{ end }}
