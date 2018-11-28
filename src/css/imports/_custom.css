@@ -1,6 +1,6 @@
 /*HEADER*/
 header {
-	padding: var(--std-sz) 0px;
+	padding: var(--std-sz * 2) 0px;
 }
 
 header nav .logo img {
