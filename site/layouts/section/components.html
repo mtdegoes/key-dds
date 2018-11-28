@@ -1,14 +1,14 @@
 {{ define "main" }}
 
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
+<div class="bg-off-white">
+	<div class="">
 
 		{{ .Content }}
 
-		<div class="flex-ns mb3">
+		<div class="">
 	        	{{ range .Params.component }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .name }}</h4>
+				<div class="dds-component">
+					<h4 class="">{{ .name }}</h4>
 					<p>{{ .description }}</p>
 				</div>
 			{{ end }}

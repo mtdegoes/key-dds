@@ -1,6 +1,6 @@
 /*HEADER*/
 header {
-	padding: var(--std-sz * 2) 0px;
+	padding: var(--std-sz) 0px;
 }
 
 header nav .logo img {
@@ -15,8 +15,6 @@ header .site-nav a {
 	display: inline-block;
 }
 
-
-
 /*FOOTER*/
 footer {
 	padding: var(--std-sz) 0px;
@@ -28,4 +26,9 @@ footer .nav {
 
 footer a {
 	display: inline-block;
+}
+
+/*COMPONENTS*/
+.dds-components {
+	padding: var(--std-sz) 0px;
 }
