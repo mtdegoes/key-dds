@@ -25,6 +25,7 @@
 
 /* Modules */
 @import './imports/_absolute';
+@import './imports/_font';
 @import './imports/_cms';
 @import './imports/_svg';
 

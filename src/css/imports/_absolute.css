@@ -9,42 +9,11 @@ Introduction:
   border: 0;
   outline: none; }
 
-html {
-  font-size: 16px; }
-
-p {
-  font-size: 1.0em;
-  line-height: 1.6em; }
-
 p + p {
   margin-top: 1em; }
 
 p + h1, p + h2, p + h3, p + h4, p + h5, p + h6, p + ul, p + ol {
   margin-top: 2em; }
-
-h1 {
-  font-size: 3.4em;
-  line-height: 1.4em; }
-
-h2 {
-  font-size: 2.2em;
-  line-height: 1.4em; }
-
-h3 {
-  font-size: 1.8em;
-  line-height: 1.3em; }
-
-h4 {
-  font-size: 1.4em;
-  line-height: 1.3em; }
-
-h5 {
-  font-size: 1.0em;
-  line-height: 1.2em; }
-
-h6 {
-  font-size: 0.8em;
-  line-height: 1.2em; }
 
 h1 + h1, h1 + h2, h1 + h3, h1 + h4, h1 + h5, h1 + h6, h1 + p, h1 + ul, h1 + ol, h2 + h2, h2 + h3, h2 + h4, h2 + h5, h2 + h6, h2 + p, h2 + ul, h2 + ol, h3 + h3, h3 + h4, h3 + h5, h3 + h6, h3 + p, h3 + ul, h3 + ol, h4 + h4, h4 + h5, h4 + h6, h4 + p, h4 + ul, h4 + ol, h5 + h5, h5 + h6, h5 + p, h5 + ul, h5 + ol, h6 + h6, h6 + p, h6 + ul, h6 + ol {
   margin-top: 0.5em; }
@@ -54,10 +23,6 @@ h2 + h1, h3 + h1, h3 + h2, h4 + h1, h4 + h2, h4 + h3, h5 + h1, h5 + h2, h5 + h3,
 
 ol, ul {
   margin-left: 2em; }
-
-ol li, ul li {
-  font-size: 1.0em;
-  line-height: 1.2em; }
 
 p + ul, p + ol, ol + ol, ol + ul, ol + p, ul + ul, ul + ol, ul + p {
   margin-top: 1em; }

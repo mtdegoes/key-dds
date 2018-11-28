@@ -1,4 +1,7 @@
 :root {
+	/* Standard Measurements*/
+	--std-sz: 10px;
+
 	/* Colors */
 	--primary: rgba(255, 68, 0, 1);
 	--highlight: rgba(254, 213, 198, 1);
