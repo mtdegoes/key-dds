@@ -36,3 +36,19 @@ ol li, ul li {
   font-size: 11px;
   line-height: 1.6em;
 }
+
+p, p.caption, h1, h2, h3, h4, ol li, ul li {
+  font-weight: 500;
+}
+
+.light {
+  font-weight: 400;
+}
+
+.medium {
+  font-weight: 600;
+}
+
+.bold {
+  font-weight: 800;
+}
