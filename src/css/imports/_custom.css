@@ -1,15 +1,31 @@
+/*HEADER*/
 header {
 	padding: var(--std-sz) 0px;
 }
 
-#key-dds nav .logo img {
+header nav .logo img {
 	max-width: 60px;
 }
 
-#key-dds .nav {
+header .nav {
 	text-align: right;
 }
 
-#key-dds .site-nav a {
+header .site-nav a {
+	display: inline-block;
+}
+
+
+
+/*FOOTER*/
+footer {
+	padding: var(--std-sz) 0px;
+}
+
+footer .nav {
+	text-align: right;
+}
+
+footer a {
 	display: inline-block;
 }
