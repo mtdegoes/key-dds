@@ -9,7 +9,7 @@ component:
     name: Another Component Third
   - description: testestest
     name: testest
-  - description: 
-    name: 
+  - description: Carla's new component.
+    name: Test 5
 ---
 Here you'll find all of the components that we use as part of the Key Design system.
