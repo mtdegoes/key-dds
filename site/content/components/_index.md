@@ -1,7 +1,6 @@
 ---
 title: Components
 component:
-  - {}
   - description: Here's it's description
     name: This is a component.
   - description: Here's another description.
