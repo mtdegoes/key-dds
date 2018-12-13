@@ -11,5 +11,7 @@ component:
     name: testest
   - description: Carla's new component.
     name: Test 5
+  - description: 
+    name: New Development Component
 ---
 Here you'll find all of the components that we use as part of the Key Design system.
