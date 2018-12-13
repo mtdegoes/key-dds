@@ -1,5 +1,5 @@
 ---
-title: Components
+title: Andrew Poe's Hideout.
 component:
   - description: Here's it's description
     name: This is a component.
@@ -11,7 +11,7 @@ component:
     name: testest
   - description: Carla's new component.
     name: Test 5
-  - description: 
+  - description: Pizza Time.
     name: New Development Component
 ---
 Here you'll find all of the components that we use as part of the Key Design system.
